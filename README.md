@@ -16,7 +16,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![Demo](colorswitcher/ios101.gif)
+![Demo](IOS101Prework/ios101.gif)
 
 ## App Brainstorming (Step 4)
 
