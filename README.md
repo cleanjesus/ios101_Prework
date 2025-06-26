@@ -1,5 +1,5 @@
 
-# Prework - IOS101:ColorSwitcher
+# Prework - IOS101: ColorSwitcher
 
 Submitted by: Jesus Santiago
 
