@@ -3,7 +3,7 @@
 
 Submitted by: Jesus Santiago
 
-ColorSwitcher is an app that allows users to switch background and foreground color randomly while still maintaining readibality for all text.
+ColorSwitcher is an app that allows users to switch background and foreground color randomly while still maintaining readability for all text.
 
 Time spent: 1.5 hours spent in total
 
@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 The following **additional** functionality is completed:
 
-- [✅] Foregorund color alternates from black and white to improve readabilty according to the background color
+- [✅] Foreground color alternates from black and white to improve readability according to the background color
 - [✅] Toggling the switch button activates and deactivates this feature
 
 ## Notes
